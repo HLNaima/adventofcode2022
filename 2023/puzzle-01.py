@@ -1,4 +1,4 @@
-with open('input-01-1.txt') as input:
+with open('input-01.txt') as input:
     elf_calories = 0
     all_elfs_calories = []
     for line in input:
